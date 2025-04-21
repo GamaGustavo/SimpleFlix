@@ -1,0 +1,6 @@
+### Vue.js ###
+# Arquivos locais
+*.local
+
+# Builds específicos
+dist-ssr/
