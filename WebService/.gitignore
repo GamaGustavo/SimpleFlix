@@ -1,0 +1,13 @@
+### .NET ###
+# Arquivos do Visual Studio
+*.njsproj
+*.sln
+*.sw?
+*.vc.db
+*.VC.VC.opendb
+
+# MSTest/NUnit
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
