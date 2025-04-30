@@ -25,7 +25,7 @@ namespace WebService.Domain
             public VideoStatus Status { get; set; } = VideoStatus.Processing;
 
             // Relacionamentos
-            public Guid CategoryId { get; set; }
+            public Guid? CategoryId { get; set; }
             public Category? Category { get; set; }
 
             public Guid? SeriesId { get; set; } // Para episódios de séries
